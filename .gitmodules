@@ -1,0 +1,6 @@
+[submodule "themes/owaraiclub"]
+	path = themes/owaraiclub
+	url = https://github.com/tcgriffith/hugo-owaraiclub.git
+[submodule "themes/janraasch"]
+	path = themes/janraasch
+	url = https://github.com/janraasch/hugo-scroll.git
